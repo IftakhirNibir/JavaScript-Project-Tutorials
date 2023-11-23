@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Background Color Changing Feature.md",
+                "file": "2. Counter App.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Background Color Changing Feature.md",
+                "file": "2. Counter App.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Background Color Changing Feature.md",
+                "file": "2. Counter App.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Background Color Changing Feature.md"
+                "file": "2. Counter App.md"
               }
             }
           }
@@ -157,6 +157,14 @@
   },
   "active": "e0d9297eff4dd45e",
   "lastOpenFiles": [
-    "1. Background Color Changing Feature.md"
+    "Pasted image 20231123113016.png",
+    "Pasted image 20231123112138.png.md",
+    "2. Counter App.md",
+    "1. Background Color Changing Feature App.md",
+    "Pasted image 20231123112138.png",
+    "Pasted image 20231123112102.png",
+    "ss1.JPG",
+    "Pasted image 20231123112051.png",
+    "~s1.tmp"
   ]
 }
